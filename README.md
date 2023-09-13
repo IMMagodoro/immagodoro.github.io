@@ -3,7 +3,7 @@ Impact of HIV on anthropometric thresholds for screening of prevalent diabetes m
 
 ## Graphs
 * [p1](/p1.html)
-* [p2](/p2.htmp2
-* [p3](/p3.htmp3
-* [p4](/p4.htmp4
+* [p2](/p2.htmp)
+* [p3](/p3.htmp)
+* [p4](/p4.htmp)
 
